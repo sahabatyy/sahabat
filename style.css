@@ -110,9 +110,9 @@ img:hover{opacity:0.75}
 .slider_article > h2 a{ background:none repeat scroll 0 0 rgba(0,0,0,0.4); color:#fff; font-size:18px; padding:10px; display:inline-block}
 .slider_article > p{ background:none repeat scroll 0 0 rgba(0,0,0,0.4); color:#fff; padding:3px; display:inline-block}
 .slick-prev:before{ content:""}
-.slick-prev{ background-image:url(images/slider_prev.png); background-repeat:no-repeat; background-position:center; left:10px}
+.slick-prev{ background-image:url(https://3.bp.blogspot.com/-pzCA3v-lp74/WUXiRc4Hr5I/AAAAAAAACiw/xGGAjTwzQqY2WibtQFbe-ehc3WaDWNIxgCLcBGAs/s1600/slider_prev.png); background-repeat:no-repeat; background-position:center; left:10px}
 .slick-next:before{ content:""}
-.slick-next{ background-image:url(images/slider_next.png); background-repeat:no-repeat; background-position:center; left:60px}
+.slick-next{ background-image:url(https://1.bp.blogspot.com/-BOXI1klouIg/WUXiRfpNRTI/AAAAAAAACis/oRNrWYlINrgf4rX_9wRyyfuS9uKDSCshQCLcBGAs/s1600/slider_next.png); background-repeat:no-repeat; background-position:center; left:60px}
 .slick-prev, .slick-next{background-color:#000; top:10%; width:40px; height:40px}
 .slick-prev:hover, .slick-next:hover{opacity:0.5}
 .latest_post{float:left; display:inline; width:100%}
